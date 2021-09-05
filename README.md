@@ -8,7 +8,7 @@ A Discord Bot to make noises for RTO, link serveral RTO channels, and more!
 
 |Description|Image|
 |:-:|:-:|
-|Short Video Example|![Short_Video_Example](https://media.agentsquad.org/videos/RTOBot/VideoShowcase)|
+|Short Video Example|[Link to Video](https://media.agentsquad.org/videos/RTOBot/VideoShowcase)|
 |Help Command|![Help_CMD](https://media.agentsquad.org/images/RTOBot/HelpCMD.png)|
 |Logs|![Logs](https://media.agentsquad.org/images/RTOBot/Logs.png)|
 |In-Game Logs|![In-Game_Logs](https://media.agentsquad.org/images/RTOBot/InGameLogs.png)|
