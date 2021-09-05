@@ -3,8 +3,6 @@ A Discord Bot to make noises for RTO, link serveral RTO channels, and more!
 
 ### Screenshots
 
-|Normal Names|Custom Names|
-|:-:|:-:|
 |![Normal Names](https://agentsquad.org/img/showcase/)|![Custom Names](https://agentsquad.org/img/showcase/)|
 
 --------
