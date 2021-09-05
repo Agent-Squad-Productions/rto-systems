@@ -1,0 +1,23 @@
+{
+  "name": "rto-system",
+  "version": "1.0.0",
+  "description": "A Discord Bot to make noises for RTO, link serveral RTO channels, and more!",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agent BUB (Agent Squad Productions)",
+  "license": "https://github.com/Agent-Squad-Productions/rto-systems/blob/main/LICENSE.md",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "eslint": "^7.15.0",
+    "eslint-config-tesseract": "0.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}

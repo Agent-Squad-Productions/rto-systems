@@ -1,0 +1,18 @@
+{
+    "prefix": ".",
+    "token": "",
+    "owners": [""],
+    "channelID": "",
+    "useLogs": "true",
+    "logchannelID": "",
+    "webchannelID": "",
+    "neededRoles": ["", "", ""],
+    "adminRoles": ["", ""],
+    "muteTimer": "5",
+    "muteMode": "off",
+    "micClicks": "on",
+    "inGameActivation": "true",
+    "pager": "on",
+    "signal": "on",
+    "panic": "on"
+}
