@@ -1,6 +1,8 @@
 # FiveM RTO Systems Discord Bot
 A Discord Bot to make noises for RTO, link serveral RTO channels, and more!
 
+#### DEPERCATED: This bot uses Discordjs v12, as of 01/01/2022, Discordjs v12 still works but ASP currently has no plans to update the bot.
+
 ### Screenshots
 
 <details>
